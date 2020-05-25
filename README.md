@@ -1,1 +1,1 @@
-# https://new3.github.io/
+# new3.github.io
