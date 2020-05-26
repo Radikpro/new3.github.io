@@ -88,7 +88,9 @@
 	color: black;
 }
 .l2:hover {
-	border: 1px solid #ffc222;
+	background-color: #ffc222;
+	opacity: 1;
+	transition: 1s;
 }
 .l22 {
 	color: black;
