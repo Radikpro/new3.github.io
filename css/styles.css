@@ -145,7 +145,7 @@
 }
 .box3 {
 	width: 1140px;
-	height: 522px;
+	height: 171px;
 	margin: 0 auto;
 	padding: 60px 0 0 0;
 }
@@ -156,8 +156,8 @@
 	background-color: #ffc222;
 	float: left;
 }
-.box4 {
-	width: 383px;
+.box44 {
+	width: auto;
 	height: 91px;
 	float: left;
 	padding: 0 0 0 33px;
@@ -592,15 +592,24 @@ form {
 .contact {
 	padding-top: 120px;
 }
-iframe {
-	width: 633px;
-    height: 250px;
-    float: right;
-    padding: 48px 0 0;
+
 }
 .black-team {
     
 }
 .white-team {
 	background-color: pink;
+}
+.video{
+  
+}
+.contvideo {
+	width: 1435px;
+	padding-left: 33px;
+	
+}
+iframe {
+	width: 700px;
+	height: 305px;
+	border-radius: 60px;
 }
